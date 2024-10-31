@@ -10,17 +10,17 @@ AFRAME.registerComponent('info-panel', {
     this.movieInfo = {
       karigurashiButton: {
         title: 'Soichi (2002)',
-        imgEl: document.querySelector('#karigurashiMovieImage'),
+        imgEl: document.querySelector('#Soichi'),
         description: '"I'll remember you... I'll make your life a living nightmare!" Souichi, the youngest child of the Tsujii family, loves to walk around with nails in his mouth and cast terrible curses on people, which is why amazing and inexplicable events constantly happen around him. Welcome to the sinister and darkly humorous world of Souichi.'
       },
       kazetachinuButton: {
         title: 'Tomie (1987)',
-        imgEl: document.querySelector('#kazetachinuMovieImage'),
+        imgEl: document.querySelector('#Tomie'),
         description: 'She subjugates men, luring them into the nets of mad love. Her name is Tomie. And her lives are countless. No matter how many times you kill her, the beautiful Tomie always returns. Ah, Tomie! The time will come when the whole world will bow before you.'
       },
       ponyoButton: {
         title: 'Dead Man's Love (2011)',
-        imgEl: document.querySelector('#ponyoMovieImage'),
+        imgEl: document.querySelector('#Dead'),
         description: 'A mysterious handsome man wanders around the city, suddenly appearing before girls telling fortunes at crossroads and destroying their most cherished dreams with cruel predictions. All those who are unlucky enough to meet him, for some unknown reason, commit suicide in the most cruel way. The evening city, shrouded in thick fog, is permeated with the smell of imminent death. Join the unusual madness of this story, flavored with drops of fresh blood!'
       }
     };
