@@ -9,19 +9,19 @@ AFRAME.registerComponent('info-panel', {
 
     this.movieInfo = {
       karigurashiButton: {
-        title: 'The Secret World of Arrietty (2010)',
+        title: 'Soichi (2002)',
         imgEl: document.querySelector('#karigurashiMovieImage'),
-        description: 'Based on the 1952 novel The Borrowers by Mary Norton, an English author of children\'s books, about a family of tiny people who live secretly in the walls and floors of a typical household, borrowing items from humans to survive.'
+        description: '"I'll remember you... I'll make your life a living nightmare!" Souichi, the youngest child of the Tsujii family, loves to walk around with nails in his mouth and cast terrible curses on people, which is why amazing and inexplicable events constantly happen around him. Welcome to the sinister and darkly humorous world of Souichi.'
       },
       kazetachinuButton: {
-        title: 'The Wind Rises (2013)',
+        title: 'Tomie (1987)',
         imgEl: document.querySelector('#kazetachinuMovieImage'),
-        description: 'The Wind Rises is a fictionalised biographical film of Jiro Horikoshi (1903, 1982), designer of the Mitsubishi A5M fighter aircraft and its successor, the Mitsubishi A6M Zero, used by the Empire of Japan during World War II. The film is adapted from Miyazaki\'s manga of the same name, which was in turn loosely based on both the 1937 novel The Wind Has Risen by Tatsuo Hori and the life of Jiro Horikoshi.'
+        description: 'She subjugates men, luring them into the nets of mad love. Her name is Tomie. And her lives are countless. No matter how many times you kill her, the beautiful Tomie always returns. Ah, Tomie! The time will come when the whole world will bow before you.'
       },
       ponyoButton: {
-        title: 'Ponyo (2003)',
+        title: 'Dead Man's Love (2011)',
         imgEl: document.querySelector('#ponyoMovieImage'),
-        description: 'It is the eighth film Miyazaki directed for Studio Ghibli, and his tenth overall. The film tells the story of Ponyo (Nara), a goldfish who escapes from the ocean and is rescued by a five-year-old human boy, Sōsuke (Doi) after she is washed ashore while trapped in a glass jar.'
+        description: 'A mysterious handsome man wanders around the city, suddenly appearing before girls telling fortunes at crossroads and destroying their most cherished dreams with cruel predictions. All those who are unlucky enough to meet him, for some unknown reason, commit suicide in the most cruel way. The evening city, shrouded in thick fog, is permeated with the smell of imminent death. Join the unusual madness of this story, flavored with drops of fresh blood!'
       }
     };
 
